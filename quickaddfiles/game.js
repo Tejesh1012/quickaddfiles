@@ -5,3 +5,5 @@ if(!maximum) {
 
 let targetNum = Math.floor(Math.random() * maximum) + 1;
 console.log(targetNum)
+
+console.log("undo changes for all the java script files")
