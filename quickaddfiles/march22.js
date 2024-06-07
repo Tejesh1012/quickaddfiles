@@ -271,3 +271,6 @@ function demo() {
 }
 
 demo()
+
+
+console.log("hi")
